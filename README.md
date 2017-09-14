@@ -1,5 +1,5 @@
 # MonthlyMeetings
-Store materials or paths to material that are shared by speakers.
+Store material or paths to material that are shared by speakers.
 
 
 13 Sep 2017: Meeting at Fred Hutch:
