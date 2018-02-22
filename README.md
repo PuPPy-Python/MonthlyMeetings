@@ -9,3 +9,12 @@ Store material or paths to material that are shared by speakers.
      -> NOX lives @ https://nox.readthedocs.io
      
   - Speaker 2: Ramkumar Hariharan presenting, "Machine learning to predict cancer prognosis: a case study and our Google Cloud Platform (GCP) experience"
+  
+
+21 Feb 2018: Meeting at Avvo:
+   - Speaker 1: Jason Kessler -- "Lexicon Mining, Language Visualization and Semiotic Squares in Python"
+     -> Contact: twitter handle - @jasonkessler  slack handle -> @jason
+     -> Forked his slides to this repository.
+   - Speaker 2: Timothy Crosley -- "I Wrote This Just in Time" 
+   - Lightning Talk
+     -> Emily Spahn
